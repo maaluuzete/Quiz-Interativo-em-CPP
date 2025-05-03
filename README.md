@@ -57,4 +57,4 @@ Este projeto possui a seguinte estrutura:
 * Este arquivo é o próprio `README.md`. Ele tem informações sobre o projeto.
 * `LICENSE` contém toda a licença do projeto.
 ## Licença
-Esse projeto está licenciado sob a licença MIT. Para mais detalhes, acesse o arquivo [LICENSE](https://github.com/maaluuzete/Controle-de-Estoques-em-C?tab=MIT-1-ov-file) desse repositório.
+Esse projeto está licenciado sob a licença MIT. Para mais detalhes, acesse o arquivo [LICENSE](https://github.com/maaluuzete/Quiz-Interativo-em-CPP?tab=MIT-1-ov-file) desse repositório.
